@@ -1,0 +1,11 @@
+{
+    "name": "saussaye/php_composer_exo_package",
+    "autoload": {
+        "psr-4": {
+            "Saussaye\\PhpComposerExoPackage\\": "src/"
+        }
+    },
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
